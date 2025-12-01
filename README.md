@@ -447,7 +447,7 @@ WSN_EnergyEfficient/
    - Select 'LEACH' or 'IEEE802154' configuration
    - Click OK to start the simulation
 
-### Having Problems? Common Solutions 🔧
+### Having Problems? Common Solutions 
 
  **Problem:** "Can't find INET Framework"
 - Open OMNeT++
