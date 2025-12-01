@@ -150,7 +150,7 @@ graph TD
     G --> H
 ```
 
-### 📊 Comparative Analysis
+###  Comparative Analysis
 | Metric | IEEE 802.15.4 | LEACH |
 |--------|---------------|-------|
 | Energy Efficiency | Baseline | Enhanced |
