@@ -379,7 +379,7 @@ WSN_EnergyEfficient/
    - About 5GB free disk space
    - 8GB RAM recommended
 
-### Step-by-Step Installation Guide 📝
+### Step-by-Step Installation Guide 
 
 #### Step 1: Install OMNeT++
 
@@ -433,7 +433,7 @@ WSN_EnergyEfficient/
 4. Find and check ✓ "INET Framework"
 5. Click `Apply and Close`
 
-#### Step 5: Build & Run! 🚀
+#### Step 5: Build & Run!
 
 1. **Build the Project:**
    - Right-click `WSN_EnergyEfficient`
@@ -443,7 +443,7 @@ WSN_EnergyEfficient/
 2. **Run the Simulation:**
    - Find `omnetpp.ini` in the project
    - Double-click to open it
-   - Click the green ▶️ (Run) button at the top
+   - Click the green (Run) button at the top
    - Select 'LEACH' or 'IEEE802154' configuration
    - Click OK to start the simulation
 
@@ -464,7 +464,7 @@ WSN_EnergyEfficient/
 - Make sure INET is properly linked (Step 4)
 - Try closing and reopening OMNeT++
 
-### What to Expect When Running 📊
+### What to Expect When Running 
 
 The simulation will show:
 - A network of sensor nodes
