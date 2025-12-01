@@ -14,11 +14,11 @@
 
 </div>
 
-## 📋 Project Overview
+##  Project Overview
 
 A comprehensive comparative analysis of energy efficiency in Wireless Sensor Networks, focusing on IEEE 802.15.4 and LEACH protocols. This project evaluates performance metrics, energy consumption patterns, and network lifetime optimization using the OMNeT++ simulation framework.
 
-### 🎯 Project Aims
+###  Project Aims
 
 1. **Primary Objective**
    - To develop and analyze an energy-efficient WSN architecture by comparing and optimizing IEEE 802.15.4 and LEACH protocols
@@ -158,7 +158,7 @@ graph TD
 | Scalability | Limited | Improved |
 | Complexity | Low | Moderate |
 
-### 🛠️ Technical Stack
+###  Technical Stack
 - **Simulation**: OMNeT++ 6.1.0
 - **Framework**: INET 4.5.0
 - **Language**: C++14
@@ -167,7 +167,7 @@ graph TD
 
 ---
 
-## 📈 Implementation Highlights
+##  Implementation Highlights
 
 ### Energy Model
 ```cpp
@@ -189,7 +189,7 @@ sim-time-limit = 200s
 *.sensorNode*.wlan[*].radio.transmitter.power = 2.24mW
 ```
 
-### 🔧 Technical Implementation
+###  Technical Implementation
 
 #### LEACH Protocol Features
 ```cpp
