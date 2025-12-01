@@ -42,24 +42,24 @@ A comprehensive comparative analysis of energy efficiency in Wireless Sensor Net
    - Enhanced data delivery reliability
    - Optimized cluster formation process
 
-### 🎯 Key Objectives
-- `📊 Analysis` Compare energy efficiency between IEEE 802.15.4 and LEACH
-- `⚡ Performance` Evaluate network lifetime and power consumption
-- `🔄 Clustering` Assess LEACH clustering effectiveness
-- `📈 Optimization` Enhance power management strategies
-- `👁️ Visualization` Real-time network behavior monitoring
+###  Key Objectives
+- ` Analysis` Compare energy efficiency between IEEE 802.15.4 and LEACH
+- ` Performance` Evaluate network lifetime and power consumption
+- ` Clustering` Assess LEACH clustering effectiveness
+- ` Optimization` Enhance power management strategies
+- ` Visualization` Real-time network behavior monitoring
 
 ---
 
-## 👥 Project Team
+##  Project Team
 
-### 👨‍🏫 Supervisor
+###  Supervisor
 
 Mr. Abdullahil Kafi  
 Assistant Professor, Department of CSE  
 Email: [abkafi@iiuc.ac.bd](mailto:abkafi@iiuc.ac.bd)
 
-### 👨‍💻 Team Members
+###  Team Members
 <table>
   <tr>
     <td align="center" width="40%">
@@ -118,7 +118,7 @@ Email: [abkafi@iiuc.ac.bd](mailto:abkafi@iiuc.ac.bd)
   </tr>
 </table>
 
-### 🔄 Development Workflow
+###  Development Workflow
 ```mermaid
 flowchart LR
     A[Team Leader] -->|Core Development| B(LEACH Protocol)
@@ -133,9 +133,9 @@ flowchart LR
 
 ---
 
-## 🔍 Project Scope
+##  Project Scope
 
-### 📡 Protocol Implementation
+###  Protocol Implementation
 ```mermaid
 graph TD
     A[WSN Protocols] --> B[IEEE 802.15.4]
@@ -279,7 +279,7 @@ optimization_params = {
 
 ---
 
-## 📊 Results Preview
+##  Results Preview
 
 ### Performance Metrics
 | Protocol | Energy Savings | Network Lifetime | Throughput |
@@ -298,7 +298,7 @@ Energy Breakdown:
 
 ---
 
-## 🔮 Future Work
+##  Future Work
 
 ### Key Research Directions
 1. **Energy Enhancement**
@@ -325,7 +325,7 @@ Energy Breakdown:
 
 ---
 
-## 📚 Documentation
+##  Documentation
 
 ### Project Structure
 ```
@@ -360,7 +360,7 @@ WSN_EnergyEfficient/
 
 ---
 
-## 🚀 Getting Started: How to Run This Project
+##  Getting Started: How to Run This Project
 
 ### What You Need First (Prerequisites)
 1. **OMNeT++** (Version 6.1.0)
@@ -383,11 +383,11 @@ WSN_EnergyEfficient/
 
 #### Step 1: Install OMNeT++
 
-👉 **For Windows Users:**
+ **For Windows Users:**
 1. Download the Windows version of OMNeT++ 6.1.0
 2. Extract it to a simple folder path (Important!)
-   - ✅ Good example: `D:\omnetpp-6.1.0`
-   - ❌ Avoid: `C:\Program Files\omnetpp` (has spaces)
+   -  Good example: `D:\omnetpp-6.1.0`
+   -  Avoid: `C:\Program Files\omnetpp` (has spaces)
 3. Open the extracted folder
 4. Double-click `mingwenv.cmd`
 5. In the terminal that opens, type:
@@ -397,7 +397,7 @@ WSN_EnergyEfficient/
    ```
 6. Wait for it to finish (this might take 15-30 minutes)
 
-👉 **For Linux Users:**
+ **For Linux Users:**
 1. Open terminal and run these commands:
    ```bash
    tar xvfz omnetpp-6.1.0-src.tgz
@@ -449,17 +449,17 @@ WSN_EnergyEfficient/
 
 ### Having Problems? Common Solutions 🔧
 
-🤔 **Problem:** "Can't find INET Framework"
+ **Problem:** "Can't find INET Framework"
 - Open OMNeT++
 - Go to `Help` → `Install Simulation Models`
 - Reinstall INET Framework
 
-🤔 **Problem:** "Build Failed"
+ **Problem:** "Build Failed"
 - Right-click project → `Clean Project`
 - Then try building again
 - Make sure you have enough disk space
 
-🤔 **Problem:** "Won't Run"
+ **Problem:** "Won't Run"
 - Check if all files are in the correct folders
 - Make sure INET is properly linked (Step 4)
 - Try closing and reopening OMNeT++
@@ -499,7 +499,7 @@ Choose what interests you and explore!
 
 ---
 
-## 🔗 Resources
+##  Resources
 - [OMNeT++ Documentation](https://doc.omnetpp.org/)
 - [INET Framework Guide](https://inet.omnetpp.org/docs/users-guide/)
 - [IEEE 802.15.4 Standard](https://standards.ieee.org/)
@@ -507,7 +507,7 @@ Choose what interests you and explore!
 
 ---
 
-## 📚 References
+##  References
 
 1. **LEACH Protocol**
    - W. R. Heinzelman, A. Chandrakasan, and H. Balakrishnan, "An application-specific protocol architecture for wireless microsensor networks," Computer Networks, vol. 37, no. 3--4, pp. 629--660, 2001.
